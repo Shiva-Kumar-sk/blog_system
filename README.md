@@ -7,9 +7,9 @@
 (7) "php artisan storage:link"<br />
 
 
-![Alt text](/screenshots/blog_register.png)
-![Alt text](/screenshots/blog_login.png)
-![Alt text](/screenshots/blog_home_page.png)
-![Alt text](/screenshots/blog_single_post.png)
-![Alt text](/screenshots/blog_my_blog.png)
-![Alt text](/screenshots/blog_update.png)
+![Register](/screenshots/blog_register.png)
+![Login](/screenshots/blog_login.png)
+![Home page](/screenshots/blog_home_page.png)
+![Single post](/screenshots/blog_single_post.png)
+![My blogs](/screenshots/blog_my_blog.png)
+![Update](/screenshots/blog_update.png)
