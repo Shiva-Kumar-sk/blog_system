@@ -32,12 +32,9 @@
                 <div class="col-md-12 mb-4">
                 <a href="{{ route('posts.show', $post->id) }}" class="nav-link"> 
                     <div class="card">
-                        @if($post->image)
-                            <img src="{{ $post->image }}" class="card-img-top" alt="Post Image">
-                        @endif
+                       
                         <div class="card-body">
                             <h4 class="card-title">{{ $post->title }}</h4>
-                            <p class="card-text">{{ $post->content }}</p>
                         </div>
                     </div>
                     </a>
