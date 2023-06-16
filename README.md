@@ -10,6 +10,7 @@
 ![Register](/screenshots/blog_register.png)
 ![Login](/screenshots/blog_login.png)
 ![Home page](/screenshots/blog_home_page.png)
+![Create blog](/screenshots/blog_create_blog.png)
 ![Single post](/screenshots/blog_single_post.png)
 ![My blogs](/screenshots/blog_my_blog.png)
 ![Update](/screenshots/blog_update.png)
