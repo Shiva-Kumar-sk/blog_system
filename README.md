@@ -1,7 +1,7 @@
-## Documentation
-(1) Run "composer install"
-(2) Change Database name in .env File
-(3) migrate "php artisan migrate"
-(5) "npm install and npm run dev"
-(6) "php artisan serve"
-(7) "php artisan storage:link"
+## Step To Setup
+(1) Run "composer install" <br />
+(2) Change the Database Credentials in .env File <br />
+(3) migrate "php artisan migrate" <br />
+(5) Run in New Terminal "npm install and npm run dev" <br />
+(6) Run in New Terminal "php artisan serve" <br />
+(7) "php artisan storage:link"<br />
