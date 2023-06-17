@@ -48,14 +48,10 @@ class PostController extends Controller
         return view('posts.show', compact('post'));
     }
 
-    public function edit( string $id)
+    public function edit(Post $post)
     {
-        $post = Post::find($id);
-
-        if(!$post) {
-            return redirect()->route('posts.index')->with('error', 'Product Not Found .');
-        }
         
+    
         if($post->user_id !== auth()->user()->id) {
             return redirect()->route('posts.index')->with('error', 'You are not authorized to do this action.');
         }
